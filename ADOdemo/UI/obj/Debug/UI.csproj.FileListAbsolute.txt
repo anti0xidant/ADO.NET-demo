@@ -1,0 +1,8 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\bin\Debug\UI.exe.config
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\bin\Debug\UI.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\bin\Debug\UI.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\bin\Debug\DataLayer.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\bin\Debug\DataLayer.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\obj\Debug\UI.exe
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\UI\obj\Debug\UI.pdb

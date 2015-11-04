@@ -1,0 +1,5 @@
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\DataLayer\bin\Debug\DataLayer.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\DataLayer\bin\Debug\DataLayer.pdb
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\DataLayer\obj\Debug\DataLayer.dll
+c:\users\apprentice\documents\visual studio 2015\Projects\ADOdemo\DataLayer\obj\Debug\DataLayer.pdb
